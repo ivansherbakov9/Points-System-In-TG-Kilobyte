@@ -221,5 +221,5 @@ async def points_balance(message: types.Message):
 if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True)
 #────────────────────────────── ◉ ──────────────────────────────
-#Created by Ivan Shcherbakov ()
+#Created by Ivan Shcherbakov (https://github.com/ivansherbakov9/Points-System-In-TG-Kilobyte)
 #────────────────────────────── ◉ ──────────────────────────────
