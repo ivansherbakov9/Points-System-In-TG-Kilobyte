@@ -17,5 +17,5 @@
 ✦5. Write "/pi" in the chat.
 ✦6. Observe the MIT license and enjoy!
 ────────────────────────────── ✦ ──────────────────────────────
-✦Created by Ivan Shcherbakov ()
+✦Created by Ivan Shcherbakov (https://github.com/ivansherbakov9/Points-System-In-TG-Kilobyte)
 ────────────────────────────── ✦ ──────────────────────────────
