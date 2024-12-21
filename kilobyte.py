@@ -9,7 +9,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import ChatAdministratorRights
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
-API_TOKEN = '7908881128:AAHKiw1uYwmzQnFYbfGIOluYt1E9mhNf8po'
+API_TOKEN = '*'
 POINTS_FILE = "user_points.json"
 AUTHORIZED_USERS_FILE = "authorized_users.json"
 ADMIN_ID = 1808806022
