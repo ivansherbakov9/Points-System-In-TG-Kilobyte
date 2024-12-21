@@ -1,2 +1,6 @@
-# Points-System-In-TG-Kilobyte
-✦: I am a bot that adds a convenient scoring system to your Telegram chat.
+# Points System In Telegram | Bot ✦Kilobyte
+✦: I am a bot that adds a convenient scoring system to your Telegram chat. I'm in telegram: @Kil0byteBot
+
+Admin: @gunner951
+
+created by Ivan Shcherbakov
